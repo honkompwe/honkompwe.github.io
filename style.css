@@ -7,6 +7,10 @@
   position: relative;
 }
 
+#hero p {
+  text-size: 30; 
+}
+
 /*table {
   font-size: 65px;
   text-align: center;
