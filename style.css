@@ -4,7 +4,8 @@
   background-repeat: no-repeat;
   background-size: contain;
   height: 1000px;
-  padding: 400px;
+  text-align: center;
+  
 }
 
 #hero p {
@@ -19,7 +20,10 @@
   height: 1000px;
   width: relative;
   border: 1px;
-/*
+*/
 
 }
 
+#contact-info {
+  font-size: 100px;
+}
