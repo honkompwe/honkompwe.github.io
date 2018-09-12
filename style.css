@@ -4,8 +4,7 @@
   background-repeat: no-repeat;
   background-size: contain;
   height: 1000px;
-  text-align: center;
-  vertical-align: middle;
+  padding: 400px;
 }
 
 #hero p {
