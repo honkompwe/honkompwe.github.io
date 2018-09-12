@@ -8,11 +8,13 @@
 }
 
 #hero-text {
-  text-align: center;
   font-family: 'Trebuchet MS';
   text-transform: uppercase;
   text-size: 100px;
   position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 /*table {
