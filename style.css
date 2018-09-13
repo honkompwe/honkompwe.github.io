@@ -44,3 +44,19 @@ table {
   width: 100%
   
 }
+
+.experience-details {
+  font-size: 40px;
+  font-family: 'Trebuchet MS';
+  text-align: center;
+  position: relative;
+  top: 25%;
+  height: 50%;
+  width: 100%
+}
+
+.block-content {
+  font-size: 15px;
+  font-family: 'Trebuchet MS';
+ 
+}
