@@ -60,6 +60,8 @@ table {
   font-family: 'Trebuchet MS';
   background-color: white;
   opacity: .5;
+  left: 25px;
+  width: 50%;
 }
 #nlhc-image{
   background-image: url(""); 
