@@ -16,18 +16,26 @@
   transform: translate(-50%, -50%);
 }
 
-/*table {
+table {
   font-size: 40px;
   text-align: center;
   font-family: 'Trebuchet MS';
   height: 100px;
   width: 100%;
-} */
+} 
 
-#contact-info {
-  font-size: 40px;
-  text-align: center;
+#Education {
+  background-image: url("http://www.d.umn.edu/~wgui/images/UMD-Logo.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 1000px;
+}
+#Education h2 {
+  font-size: 50px;
   font-family: 'Trebuchet MS';
-  height: 100px;
-  width: 100%;
+  text-transform: uppercase;
+  text-align: center;
+  height:
+  width: 100%
 }
