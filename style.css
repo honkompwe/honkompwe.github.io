@@ -4,7 +4,6 @@
   background-repeat: no-repeat;
   background-size: contain;
   height: 1000px;
-
 }
 
 #hero-text {
@@ -17,15 +16,18 @@
   transform: translate(-50%, -50%);
 }
 
-table {
+/*table {
   font-size: 40px;
   text-align: center;
   font-family: 'Trebuchet MS';
   height: 100px;
   width: 100%;
-
-}
+} */
 
 #contact-info {
-  font-size: 100px;
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Trebuchet MS';
+  height: 100px;
+  width: 100%;
 }
