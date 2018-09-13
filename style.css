@@ -10,22 +10,20 @@
 #hero-text {
   font-family: 'Trebuchet MS';
   text-transform: uppercase;
-  text-size: 500px;
+  text-size: 1000px;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
-/*table {
-  font-size: 65px;
+table {
+  font-size: 100px;
   text-align: center;
-  text-transform: uppercase;
   font-family: 'Trebuchet MS';
-  height: 1000px;
-  width: relative;
+  height: 200px;
+  width: ;
   border: 1px;
-*/
 
 }
 
