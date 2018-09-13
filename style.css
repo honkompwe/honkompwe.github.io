@@ -60,3 +60,26 @@ table {
   font-family: 'Trebuchet MS';
  
 }
+#nlhc-image{
+  background-image: url(""); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 1000px;
+}
+
+#ranch-image {
+  background-image: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/13731697_10153559178836736_4186906306875810536_n.jpg?_nc_cat=0&oh=ff9bd509549045e74861b6211b750911&oe=5C1E7DD6"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 1000px;
+}
+
+#wozupi-image {
+  background-image: url("https://scontent-ort2-2.xx.fbcdn.net/v/t31.0-8/11922862_881441245276608_5782550642787136502_o.jpg?_nc_cat=0&oh=848f12f90a9e97cc74880c3a9dd84025&oe=5C393CAA"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 1000px;
+}
