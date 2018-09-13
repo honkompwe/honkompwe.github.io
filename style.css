@@ -58,7 +58,8 @@ table {
 .block-content {
   font-size: 15px;
   font-family: 'Trebuchet MS';
- 
+  background-color: White;
+  opacity: .5;
 }
 #nlhc-image{
   background-image: url(""); 
