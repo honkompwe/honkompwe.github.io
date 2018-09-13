@@ -35,8 +35,15 @@ table {
   font-size: 50px;
   font-family: 'Trebuchet MS';
   text-transform: uppercase;
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /*
   text-align: center;
   position: relative;
   height: 50%;
   width: 100%
+  */
 }
