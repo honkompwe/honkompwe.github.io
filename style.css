@@ -26,6 +26,7 @@ table {
 
 #Education {
   background-image: url("http://www.d.umn.edu/~wgui/images/UMD-Logo.jpg");
+  opacity: .5;
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -37,7 +38,7 @@ table {
   text-transform: uppercase;
   text-align: center;
   position: relative;
-  top: 50%;
+  top: 25%;
   height: 50%;
   width: 100%
 }
