@@ -31,8 +31,7 @@ table {
   background-repeat: no-repeat;
   background-size: contain;
   height: 1000px;
-}
-#Education h2 {
+  
   font-size: 50px;
   font-family: 'Trebuchet MS';
   text-transform: uppercase;
@@ -41,4 +40,7 @@ table {
   top: 25%;
   height: 50%;
   width: 100%
+}
+#Education h2 {
+
 }
