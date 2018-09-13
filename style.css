@@ -33,10 +33,10 @@ table {
   height: 1000px;
 }
 #Education-Block {
+  opacity: 1;
   font-size: 50px;
   font-family: 'Trebuchet MS';
   text-transform: uppercase;
-  opacity: 1;
   text-align: center;
   position: relative;
   top: 25%;
