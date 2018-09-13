@@ -33,11 +33,10 @@ table {
 }
 #Education h2 {
   font-size: 50px;
-  background-color: rgb(0,0,0);
-  opacity: .5;
   font-family: 'Trebuchet MS';
   text-transform: uppercase;
   text-align: center;
+  top: 50%;
   height: 50%;
   width: 100%
 }
