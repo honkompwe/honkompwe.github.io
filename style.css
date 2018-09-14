@@ -3,7 +3,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-  height: 1000px;
+  height: 800px;
 }
 
 #hero-text {
@@ -30,7 +30,7 @@ table {
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-  height: 1000px;
+  height: 800px;
 }
 #Education-Block {
   opacity: 1;
@@ -67,6 +67,7 @@ table {
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
+  height: 800px;
 }
 
 #ranch-image {
@@ -74,6 +75,7 @@ table {
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
+  height: 800px;
 }
 
 #wozupi-image {
@@ -81,5 +83,5 @@ table {
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-  height: 1000px;
+  height: 800px;
 }
