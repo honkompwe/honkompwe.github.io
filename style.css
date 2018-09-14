@@ -24,7 +24,7 @@ table {
   width: 100%;
 } 
 
-#Education {
+.Education {
   background-image: url("http://www.d.umn.edu/~wgui/images/UMD-Logo.jpg");
   opacity: .5;
   background-position: center;
