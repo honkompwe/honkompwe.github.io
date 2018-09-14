@@ -39,8 +39,7 @@ table {
   position: relative;
   top: 25%;
   height: 50%;
-  width: 100%
-  
+ 
 }
 
 .experience-details {
@@ -49,7 +48,6 @@ table {
   text-align: center;
   position: relative;
   top: 25%;
-  left: 50%;
 }
 
 .block-content {
@@ -57,6 +55,7 @@ table {
   font-family: 'Trebuchet MS';
   background-color: white;
   position: relative;
+  top: 75%;
   width: 25%;
 }
 #nlhc-image{
