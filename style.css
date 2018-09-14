@@ -44,15 +44,12 @@ table {
 }
 
 .experience-details {
-  background-color: white;
-  background-size: 25% 15%;
   font-size: 20px;
   font-family: 'Trebuchet MS';
   text-align: center;
   position: relative;
   top: 25%;
   left: 50%;
-  margin-bottom: 30px;
   width: 100%;
 }
 
@@ -62,7 +59,7 @@ table {
   background-color: white;
   position: relative;
   left: 50%;
-  width: 50%;
+  width: 25%;
 }
 #nlhc-image{
   background-image: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/41710792_1856999501035476_3023891988404502528_o.jpg?_nc_cat=0&oh=47a6d9454fe7066ca018a20efcb29c84&oe=5C25EC6A"); 
