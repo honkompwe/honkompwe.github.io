@@ -43,6 +43,8 @@ table {
 }
 
 .experience-details {
+  background-color: white;
+  background-size: 25% 15%;
   font-size: 20px;
   font-family: 'Trebuchet MS';
   text-align: center;
