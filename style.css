@@ -23,6 +23,7 @@
 table.wes-honkomp {
   font-size: 45px;
   text-align: center;
+  text-transform: uppercase;
   font-family: 'Trebuchet MS';
   table-layout: fixed;
   position: absolute;
