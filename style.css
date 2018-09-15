@@ -44,7 +44,7 @@ table.contact-info {
 } 
 
 .Education {
-  background-image: url("http://www.d.umn.edu/~wgui/images/UMD-Logo.jpg");
+  background-image: url("http://www.d.umn.edu/~wgui/images/UMD-Logo.jpg", .5);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
