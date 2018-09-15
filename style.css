@@ -1,7 +1,7 @@
 #hero-image {
-  background-image: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/41502758_1854625691272857_8138710215555022848_n.jpg?_nc_cat=0&oh=e9159a2362917a4a4b0aff89fa7c3190&oe=5C36EBE2");
-  background-position: center;
-  background-repeat: no-repeat;
+  background: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/41502758_1854625691272857_8138710215555022848_n.jpg?_nc_cat=0&oh=e9159a2362917a4a4b0aff89fa7c3190&oe=5C36EBE2") no-repeat center;
+/*  background-position: center;
+  background-repeat: no-repeat;  */
   background-size: contain;
   height: 1000px;
 }
