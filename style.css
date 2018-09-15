@@ -78,7 +78,7 @@ table.contact-info {
   position: relative;
   top: 25%;
 }
-.experience-details h3 {    /* WHY STILL UNDERLINED?  */
+.experience-details h3 a{    /* WHY STILL UNDERLINED?  */
   text-decoration: none;
 }
 
