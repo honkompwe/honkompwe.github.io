@@ -78,7 +78,7 @@ table.contact-info {
   position: relative;
   top: 20%;
 }
-.experience-details h3 a{    /* WHY STILL UNDERLINED?  */
+.experience-details h3 a{
   text-decoration: none;
 }
 
@@ -95,9 +95,9 @@ table.contact-info {
 }
 
 #nlhc-image{
-  background-image: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/41710792_1856999501035476_3023891988404502528_o.jpg?_nc_cat=0&oh=47a6d9454fe7066ca018a20efcb29c84&oe=5C25EC6A"); 
-  background-position: right center;
-  background-repeat: no-repeat;
+  background: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/41710792_1856999501035476_3023891988404502528_o.jpg?_nc_cat=0&oh=47a6d9454fe7066ca018a20efcb29c84&oe=5C25EC6A") no-repeat right center; 
+/*  background-position: right center;
+  background-repeat: no-repeat;  */
   background-size: cover;
   height: 800px;
 }
