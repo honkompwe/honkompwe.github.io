@@ -52,6 +52,7 @@ table.contact-info {
   height: 800px;
 }
 #Education-Block {
+  background-color: rgba(255, 255, 255, .6);
   font-size: 50px;
   font-family: 'Trebuchet MS';
   text-transform: uppercase;
