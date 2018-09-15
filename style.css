@@ -85,8 +85,8 @@ table.contact-info {
 .block-content {
   font-size: 17px;
   font-family: 'Trebuchet MS';
-  padding: 1px;
-  border-radius: 10px;
+  padding: 2px;
+  border-radius: 5px;
   background-color: rgba(255, 255, 255, 0.85);
   position: relative;
   top: 45%;
