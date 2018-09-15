@@ -21,7 +21,8 @@
 
 
 table.wes-honkomp {
-  font-size: 60px;
+  font-size: 100px;
+  font-weight: bold;
   text-align: center;
   text-transform: uppercase;
   font-family: 'Trebuchet MS';
@@ -63,20 +64,20 @@ table.contact-info {
 
 .experience-details {
   background-color: rgba(255, 255, 255, 0.5);
-  font-size: 20px;
+  font-size: 30px;
   font-family: 'Trebuchet MS';
   text-align: center;
   position: relative;
   top: 25%;
 }
-.experience-details h3 {
+.experience-details h3 {    /* WHY STILL UNDERLINED?  */
   text-decoration: none;
 }
 
 .block-content {
   font-size: 15px;
   font-family: 'Trebuchet MS';
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.7);
   position: relative;
   top: 30%;
   left: 100px;
