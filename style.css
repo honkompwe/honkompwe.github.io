@@ -45,9 +45,9 @@ table.contact-info {
 } 
 
 .Education {
-  background-image: url("http://www.d.umn.edu/~wgui/images/UMD-Logo.jpg");
-  background-position: center;
-  background-repeat: no-repeat;
+  background: url("http://www.d.umn.edu/~wgui/images/UMD-Logo.jpg") no-repeat center;
+/*  background-position: center;
+  background-repeat: no-repeat;   */
   background-size: contain;
   height: 800px;
 }
