@@ -22,14 +22,14 @@
 
 table.wes-honkomp {
   font-size: 45px;
-  table-layout: fixed;
   text-align: center;
   font-family: 'Trebuchet MS';
+  table-layout: fixed;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  height: 100px;
+  height: 1000px;
   width: 100%;
 } 
 
