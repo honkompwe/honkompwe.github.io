@@ -3,11 +3,11 @@
 /*  background-position: center;
   background-repeat: no-repeat;  */
   background-size: contain;
-  height: 850px;
+  height: 800px;
 }
 
 table.wes-honkomp {
-  font-size: 90px;
+  font-size: 85px;
   font-weight: bold;
   text-align: center;
   text-transform: uppercase;
@@ -17,7 +17,7 @@ table.wes-honkomp {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  height: 850px;
+  height: 800px;
   width: 100%;
 } 
 
