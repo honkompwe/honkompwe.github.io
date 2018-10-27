@@ -2,8 +2,46 @@
   background: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/41502758_1854625691272857_8138710215555022848_n.jpg?_nc_cat=0&oh=e9159a2362917a4a4b0aff89fa7c3190&oe=5C36EBE2") no-repeat center;
   background-size: contain;
   height: 800px;
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
 }
 
+.hero-image ul {
+  font-size: 120px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Trebuchet MS';
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+
+  background-image: linear-gradient(rgba(255, 255, 255, 0) , rgba(255, 255, 255, 1));
+}
+
+.hero-image li {
+  width: 100%;
+  list-style: none;
+}
+
+address ul {
+  font-size: 40px;
+  font-family: 'Trebuchet MS';
+  text-align: center;
+  list-style: none;
+  margin: 0px;
+}
+
+address li {
+  padding: 0% 10% 0% 10%;
+}
+
+/*
 table.wes-honkomp {
   font-size: 85px;
   font-weight: bold;
@@ -25,7 +63,7 @@ table.contact-info {
   height: 100px;
   width: 100%;
 } 
-
+*/
 .Education {
   background: url("http://www.d.umn.edu/~wgui/images/UMD-Logo.jpg") no-repeat center;
   background-size: contain;
@@ -39,8 +77,10 @@ table.contact-info {
   text-transform: uppercase;
   text-align: center;
   height: 100%;
+} 
+.Education-Block h3 {
+  margin-top: 0px;
 }
-
 .experience-details {
   background-image: linear-gradient(to right, rgba(255, 255, 255, 0) , rgba(255, 255, 255, .8), rgba(255, 255, 255, 0));
   font-size: 25px;
