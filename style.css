@@ -1,4 +1,4 @@
-#hero-image {
+.hero-image {
   background: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/41502758_1854625691272857_8138710215555022848_n.jpg?_nc_cat=0&oh=e9159a2362917a4a4b0aff89fa7c3190&oe=5C36EBE2") no-repeat center;
   background-size: contain;
   height: 800px;
@@ -32,7 +32,7 @@ table.contact-info {
   height: 800px;
 }
 
-#Education-Block {
+.Education-Block {
   background-color: rgba(255, 255, 255, .65);
   font-size: 50px;
   font-family: 'Trebuchet MS';
@@ -68,25 +68,25 @@ table.contact-info {
 
 /* Can I consolidate images further?  */
 
-#nlhc-image{
+.nlhc-image{
   background: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/41710792_1856999501035476_3023891988404502528_o.jpg?_nc_cat=0&oh=47a6d9454fe7066ca018a20efcb29c84&oe=5C25EC6A") no-repeat right center; 
   background-size: cover;
   height: 800px;
 }
 
-#ranch-image {
+.ranch-image {
   background: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/13731697_10153559178836736_4186906306875810536_n.jpg?_nc_cat=0&oh=ff9bd509549045e74861b6211b750911&oe=5C1E7DD6") no-repeat right center; 
   background-size: cover;
   height: 800px;
 }
 
-#wozupi-image {
+.wozupi-image {
   background: url("https://scontent-ort2-2.xx.fbcdn.net/v/t31.0-8/11922862_881441245276608_5782550642787136502_o.jpg?_nc_cat=0&oh=848f12f90a9e97cc74880c3a9dd84025&oe=5C393CAA") no-repeat right center; 
   background-size: cover;
   height: 800px;
   
 }
-#grammy-image {
+.grammy-image {
   background: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/41543106_1854664701268956_4939722589565091840_n.jpg?_nc_cat=0&oh=78ce4ae4662e2e62ac00feda46b15bc7&oe=5C39787D") no-repeat center center;
   background-size: cover;
   height: 800px;
