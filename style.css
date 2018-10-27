@@ -1,5 +1,6 @@
 .hero-image {
-  background: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/41502758_1854625691272857_8138710215555022848_n.jpg?_nc_cat=0&oh=e9159a2362917a4a4b0aff89fa7c3190&oe=5C36EBE2") no-repeat center;
+  background: url("https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/44901088_1910439929024766_1726237194093330432_n.jpg?_nc_cat=101&_nc_ht=scontent-ort2-1.xx&oh=bb6e4859a12566a631ff8e44f4d20ca8&oe=5C8A9F30") no-repeat center;
+ /* background: url("https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/41502758_1854625691272857_8138710215555022848_n.jpg?_nc_cat=0&oh=e9159a2362917a4a4b0aff89fa7c3190&oe=5C36EBE2") no-repeat center;  */
   background-size: contain;
   height: 800px;
 
@@ -42,43 +43,39 @@ address li {
 }
 
 /*
-table.wes-honkomp {
-  font-size: 85px;
-  font-weight: bold;
-  text-align: center;
-  text-transform: uppercase;
-  font-family: 'Trebuchet MS';
-  table-layout: fixed;
-  position: absolute;
-  top: 80px;
-  height: 800px;
-  width: 100%;
-} 
-
-table.contact-info {
-  font-size: 40px;
-  table-layout: fixed;
-  text-align: center;
-  font-family: 'Trebuchet MS';
-  height: 100px;
-  width: 100%;
-} 
-*/
 .Education {
   background: url("http://www.d.umn.edu/~wgui/images/UMD-Logo.jpg") no-repeat center;
   background-size: contain;
   height: 800px;
 }
 
-.Education-Block {
+.ed-umd {
   background-color: rgba(255, 255, 255, .65);
   font-size: 50px;
   font-family: 'Trebuchet MS';
   text-transform: uppercase;
   text-align: center;
   height: 100%;
+} */
+
+
+.ed-umd {
+  background: url("http://www.d.umn.edu/~wgui/images/UMD-Logo.jpg") no-repeat center;
+  background-size: contain;
+
+  font-size: 50px;
+  font-family: 'Trebuchet MS';
+  text-transform: uppercase;
+  text-align: center;
+  height: 800px;
 } 
-.Education-Block h3 {
+
+.opacity-layer {
+  height: 100%;
+  background-color: rgba(255, 255, 255, .65);
+}
+
+.ed-umd h3 {
   margin-top: 0px;
 }
 .experience-details {
